@@ -39,7 +39,7 @@ app.use(rateLimit({
 //Aditya
 //for checking purpose that the server is running or not
 app.get('/',(req,res)=>{
-    res.send("Swasthmind_Dev API's  are running :)")
+    res.send("Swasthmind_Dev API's  are running 1 :)")
 })
 
 //fcm_notifications
